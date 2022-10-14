@@ -1,6 +1,8 @@
 /*
-  Source tutorial from: https://www.robocore.net/tutoriais/programando-o-esp8266-pela-arduino-ide
-  
+  Source tutorials:
+  https://www.robocore.net/tutoriais/programando-o-esp8266-pela-arduino-ide
+  https://thingsboard.io/docs/samples/esp8266/gpio/
+
   ESP8266 Blink by Simon Peter
   Blink the blue LED on the ESP-01 module
   This example code is in the public domain

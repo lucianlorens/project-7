@@ -2,11 +2,11 @@
 IoT project for Hackathon Aveiro Tech City: 
 https://taikai.network/cma/hackathons/hackathonaveirotechcity/
 
- 
+
 ### Prerequisites
-:construction: [work_in_progress] :construction:
-* _List of operational systems, tools and framework that need to be preinstalled._
-* (optional)
+* Arduino board (ex: Robocore Julieta v1)
+* 
+
 
 ### Architecture
 :construction: [work_in_progress] :construction:
