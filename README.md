@@ -39,6 +39,8 @@ _Description about how to use and configure a DevOps continuous deployment._
 _List of main frameworks used._
 * [ThingsBoard](https://github.com/thingsboard/thingsboard) - ThingsBoard is an open-source IoT platform for data collection, processing, visualization, and device management..
 
+
+
 ## Contributing
 :construction: [work_in_progress] :construction:
 
